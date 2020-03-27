@@ -9,3 +9,7 @@ A responsive mock upscale restaurant website built with keyframes, hover effect 
 - JavaScript
 - jQuery
 - Ajax
+
+## Deployment
+
+https://thesqueeze.netlify.com
